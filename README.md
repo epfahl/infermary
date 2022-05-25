@@ -3,13 +3,7 @@
 
 ## Installation
 
-Clone the repo:
-
-```
-git clone https://github.com/KlearlyAnalytics/infermary
-```
-
-Install dependencies:
+First, clone the repo. Then install dependencies:
 
 ```
 pip install -r requirements.txt
